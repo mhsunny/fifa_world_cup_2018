@@ -40,3 +40,9 @@ Designer:
 ====================================
 Anwar Sohel, Graphic Designer, The Daily Star
 
+Languages & Tools used:
+====================================
+HTML, CSS, Javascript, Jquery, Twitter Bootstrap, PHP, Drupal, MySQl.
+
+
+
